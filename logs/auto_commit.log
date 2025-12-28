@@ -1,0 +1,242 @@
+2025-12-22 13:09:58,769 [INFO] Auto Commit Bot started
+2025-12-22 13:09:58,770 [INFO] Create 'stop.txt' to stop the bot
+2025-12-22 13:09:59,080 [INFO] Changes detected in testing. Committing...
+2025-12-22 13:10:03,737 [INFO] Committed & pushed: testing
+2025-12-22 13:10:03,994 [INFO] No changes in Wrangler
+2025-12-22 13:10:16,096 [WARNING] Stop signal detected during wait. Shutting down.
+2025-12-22 13:10:28,513 [INFO] Auto Commit Bot started
+2025-12-22 13:10:28,514 [INFO] Create 'stop.txt' to stop the bot
+2025-12-22 13:10:28,514 [WARNING] Stop signal detected. Shutting down.
+2025-12-22 13:10:28,514 [INFO] Auto Commit Bot stopped
+2025-12-22 13:18:50,165 [INFO] Auto Commit Bot started (Watchdog mode)
+2025-12-22 13:18:50,168 [INFO] Create 'stop.txt' to stop the bot
+2025-12-22 13:18:50,169 [INFO] Watching: testing at C:/Users/Tushar Sourav/coding/testing
+2025-12-22 13:18:50,170 [INFO] Watching: Wrangler at C:/Users/Tushar Sourav/coding/Wrangler
+2025-12-22 13:19:07,010 [INFO] Changes detected in testing: 1 files. Committing...
+2025-12-22 13:19:11,525 [INFO] Committed & pushed: testing
+2025-12-22 13:19:11,772 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:12,011 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:12,245 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:12,471 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:12,702 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:12,950 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:13,186 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:13,440 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:13,691 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:13,922 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:14,157 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:14,390 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:14,629 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:14,876 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:15,119 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:15,354 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:15,605 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:15,964 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:16,211 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:16,494 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:16,733 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:16,967 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:17,202 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:17,435 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:17,656 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:17,888 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:18,129 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:18,368 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:18,595 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:18,836 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:19,068 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:19,290 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:19,529 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:19,765 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:19,996 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:20,272 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:20,544 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:20,779 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:20,996 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:21,219 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:21,442 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:21,666 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:21,916 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:22,364 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:22,905 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:23,387 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:23,640 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:23,868 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:24,270 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:24,532 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:24,785 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:25,023 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:25,280 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:25,541 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:25,770 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:25,996 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:26,232 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:26,467 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:26,695 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:26,928 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:27,253 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:27,507 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:27,754 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:27,998 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:28,236 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:28,456 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:28,677 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:28,900 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:29,126 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:29,352 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:29,573 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:29,802 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:30,066 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:30,108 [WARNING] Bot stopped manually (Ctrl + C)
+2025-12-22 13:19:30,165 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:19:30,167 [INFO] Auto Commit Bot stopped
+2025-12-22 13:22:51,836 [INFO] Auto Commit Bot started (Watchdog mode)
+2025-12-22 13:22:51,836 [INFO] Create 'stop.txt' to stop the bot
+2025-12-22 13:22:51,837 [INFO] Watching: testing at C:/Users/Tushar Sourav/coding/testing
+2025-12-22 13:22:51,838 [INFO] Watching: Wrangler at C:/Users/Tushar Sourav/coding/Wrangler
+2025-12-22 13:23:09,955 [INFO] Changes detected in testing: 1 files. Committing...
+2025-12-22 13:23:15,075 [INFO] Committed & pushed: testing
+2025-12-22 13:23:20,744 [INFO] Changes detected in testing: 1 files. Committing...
+2025-12-22 13:23:24,725 [INFO] Committed & pushed: testing
+2025-12-22 13:23:29,923 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:23:35,292 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:23:40,707 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:23:46,121 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:23:51,462 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:23:56,809 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:24:02,147 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:24:07,478 [INFO] No significant changes in testing (ignored or too few files)
+2025-12-22 13:24:11,435 [WARNING] Bot stopped manually (Ctrl + C)
+2025-12-22 13:24:11,437 [INFO] Auto Commit Bot stopped
+2025-12-22 13:28:33,137 [INFO] Ignored directories: ['.git', 'target', 'node_modules']
+2025-12-22 13:28:33,137 [INFO] Auto Commit Bot started (Watchdog mode)
+2025-12-22 13:28:33,138 [INFO] Create 'stop.txt' to stop the bot
+2025-12-22 13:28:33,138 [INFO] Watching: testing at C:/Users/Tushar Sourav/coding/testing
+2025-12-22 13:28:33,139 [INFO] Watching: Wrangler at C:/Users/Tushar Sourav/coding/Wrangler
+2025-12-22 13:32:07,684 [WARNING] Bot stopped manually (Ctrl + C)
+2025-12-22 13:32:07,701 [INFO] Auto Commit Bot stopped
+2025-12-22 13:32:24,116 [INFO] Ignored directories: ['node_modules', 'target', '.git']
+2025-12-22 13:32:24,117 [INFO] Auto Commit Bot started (Watchdog mode)
+2025-12-22 13:32:24,117 [INFO] Create 'stop.txt' to stop the bot
+2025-12-22 13:32:24,118 [INFO] Watching: testing at C:/Users/Tushar Sourav/coding/testing
+2025-12-22 13:32:24,118 [INFO] Watching: Wrangler at C:/Users/Tushar Sourav/coding/Wrangler
+2025-12-22 13:32:37,251 [WARNING] Bot stopped manually (Ctrl + C)
+2025-12-22 13:32:37,253 [INFO] Auto Commit Bot stopped
+2025-12-22 15:18:49,052 [INFO] Ignored directories: ['node_modules', 'target', '.git']
+2025-12-22 15:18:49,053 [INFO] Auto Commit Bot started (Watchdog mode)
+2025-12-22 15:18:49,053 [INFO] Create 'stop.txt' to stop the bot
+2025-12-22 15:18:49,054 [INFO] Watching: testing at C:/Users/Tushar Sourav/coding/testing
+2025-12-22 15:18:49,055 [INFO] Watching: Wrangler at C:/Users/Tushar Sourav/coding/Wrangler
+2025-12-22 15:18:56,318 [WARNING] Bot stopped manually (Ctrl + C)
+2025-12-22 15:18:56,321 [INFO] Auto Commit Bot stopped
+2025-12-22 15:19:32,276 [INFO] Ignored directories: ['node_modules', 'target', '.git']
+2025-12-22 15:19:32,278 [INFO] Auto Commit Bot started (Watchdog mode)
+2025-12-22 15:19:32,279 [INFO] Create 'stop.txt' to stop the bot
+2025-12-22 15:19:32,279 [INFO] Watching: testing at C:/Users/Tushar Sourav/coding/testing
+2025-12-22 15:19:32,279 [INFO] Watching: Wrangler at C:/Users/Tushar Sourav/coding/Wrangler
+2025-12-22 15:20:11,102 [INFO] Committed & pushed: testing
+2025-12-22 15:20:17,111 [INFO] Committed & pushed: testing
+2025-12-22 15:20:23,110 [INFO] Committed & pushed: testing
+2025-12-22 15:20:29,118 [INFO] Committed & pushed: testing
+2025-12-22 15:20:35,709 [INFO] Committed & pushed: testing
+2025-12-22 15:20:42,148 [INFO] Committed & pushed: testing
+2025-12-22 15:20:48,372 [INFO] Committed & pushed: testing
+2025-12-22 15:20:54,674 [INFO] Committed & pushed: testing
+2025-12-22 15:21:01,124 [INFO] Committed & pushed: testing
+2025-12-22 15:21:07,357 [INFO] Committed & pushed: testing
+2025-12-22 15:21:13,364 [INFO] Committed & pushed: testing
+2025-12-22 15:21:15,759 [WARNING] Bot stopped manually (Ctrl + C)
+2025-12-22 15:21:15,762 [INFO] Auto Commit Bot stopped
+2025-12-22 15:28:20,433 [INFO] Ignored directories: ['node_modules', 'target', '.git']
+2025-12-22 15:28:20,435 [INFO] Auto Commit Bot started (Watchdog mode)
+2025-12-22 15:28:20,435 [INFO] Create 'stop.txt' to stop the bot
+2025-12-22 15:28:20,436 [INFO] Watching: testing at C:/Users/Tushar Sourav/coding/testing
+2025-12-22 15:28:20,436 [INFO] Watching: Wrangler at C:/Users/Tushar Sourav/coding/Wrangler
+2025-12-22 15:28:46,123 [INFO] No sufficient changes to commit
+2025-12-22 15:28:55,872 [INFO] No sufficient changes to commit
+2025-12-22 15:29:08,774 [ERROR] Commit failed: Aborting commit due to empty commit message.
+2025-12-22 15:29:16,603 [ERROR] Commit failed: Aborting commit due to empty commit message.
+2025-12-22 15:29:24,177 [ERROR] Commit failed: Aborting commit due to empty commit message.
+2025-12-22 15:29:28,970 [WARNING] Bot stopped manually (Ctrl + C)
+2025-12-22 15:29:28,972 [INFO] Auto Commit Bot stopped
+2025-12-22 15:29:54,942 [INFO] Ignored directories: ['node_modules', 'target', '.git']
+2025-12-22 15:29:54,943 [INFO] Auto Commit Bot started (Watchdog mode)
+2025-12-22 15:29:54,943 [INFO] Create 'stop.txt' to stop the bot
+2025-12-22 15:29:54,944 [INFO] Watching: testing at C:/Users/Tushar Sourav/coding/testing
+2025-12-22 15:29:54,944 [INFO] Watching: Wrangler at C:/Users/Tushar Sourav/coding/Wrangler
+2025-12-22 15:30:21,992 [ERROR] Commit failed: Aborting commit due to empty commit message.
+2025-12-22 15:30:28,417 [ERROR] Commit failed: Aborting commit due to empty commit message.
+2025-12-22 15:30:34,743 [ERROR] Commit failed: Aborting commit due to empty commit message.
+2025-12-22 15:30:40,993 [ERROR] Commit failed: Aborting commit due to empty commit message.
+2025-12-22 15:30:46,818 [WARNING] Bot stopped manually (Ctrl + C)
+2025-12-22 15:30:46,820 [INFO] Auto Commit Bot stopped
+2025-12-22 15:30:54,505 [INFO] Ignored directories: ['node_modules', 'target', '.git']
+2025-12-22 15:30:54,507 [INFO] Auto Commit Bot started (Watchdog mode)
+2025-12-22 15:30:54,507 [INFO] Create 'stop.txt' to stop the bot
+2025-12-22 15:30:54,508 [INFO] Watching: testing at C:/Users/Tushar Sourav/coding/testing
+2025-12-22 15:30:54,508 [INFO] Watching: Wrangler at C:/Users/Tushar Sourav/coding/Wrangler
+2025-12-22 15:31:14,092 [ERROR] Commit failed: Aborting commit due to empty commit message.
+2025-12-22 15:31:18,200 [WARNING] Bot stopped manually (Ctrl + C)
+2025-12-22 15:31:18,203 [INFO] Auto Commit Bot stopped
+2025-12-22 15:32:58,802 [INFO] Ignored directories: ['node_modules', 'target', '.git']
+2025-12-22 15:32:58,805 [INFO] Auto Commit Bot started (Watchdog mode)
+2025-12-22 15:32:58,806 [INFO] Create 'stop.txt' to stop the bot
+2025-12-22 15:32:58,806 [INFO] Watching: testing at C:/Users/Tushar Sourav/coding/testing
+2025-12-22 15:32:58,807 [INFO] Watching: Wrangler at C:/Users/Tushar Sourav/coding/Wrangler
+2025-12-22 15:33:16,350 [ERROR] Commit failed: Aborting commit due to empty commit message.
+2025-12-22 15:33:22,654 [ERROR] Commit failed: Aborting commit due to empty commit message.
+2025-12-22 15:33:24,735 [WARNING] Bot stopped manually (Ctrl + C)
+2025-12-22 15:33:24,738 [INFO] Auto Commit Bot stopped
+2025-12-22 15:40:35,209 [INFO] Ignored directories: ['node_modules', 'target', '.git']
+2025-12-22 15:40:35,210 [INFO] Auto Commit Bot started (Watchdog mode)
+2025-12-22 15:40:35,210 [INFO] Create 'stop.txt' to stop the bot
+2025-12-22 15:40:35,211 [INFO] Watching: testing
+2025-12-22 15:40:35,211 [INFO] Watching: Wrangler
+2025-12-22 15:40:58,599 [INFO] Commit message: chore: automated commit
+2025-12-22 15:40:58,890 [INFO] Committed changes in testing
+2025-12-22 15:41:02,642 [ERROR] Push failed: To https://github.com/Uzumaki-tushar/testing.git
+   6b29e95..9ee5d9d  main -> main
+2025-12-22 15:42:14,033 [WARNING] Stopped manually (Ctrl+C)
+2025-12-22 15:42:14,036 [INFO] Auto Commit Bot stopped
+2025-12-22 16:00:38,476 [INFO] Ignored directories: ['node_modules', 'target', '.git']
+2025-12-22 16:00:38,478 [INFO] Auto Commit Bot started (Watchdog mode)
+2025-12-22 16:00:38,478 [INFO] Create 'stop.txt' to stop the bot
+2025-12-22 16:00:38,479 [INFO] Watching: testing
+2025-12-22 16:00:38,480 [INFO] Watching: Wrangler
+2025-12-22 16:00:54,945 [INFO] Commit message: chore: automated commit
+2025-12-22 16:00:55,259 [INFO] Committed changes in testing
+2025-12-22 16:00:59,005 [INFO] Pushed to GitHub: testing
+2025-12-22 16:01:21,927 [WARNING] Stopped manually (Ctrl+C)
+2025-12-22 16:01:21,934 [INFO] Auto Commit Bot stopped
+2025-12-22 16:01:57,626 [INFO] Ignored directories: ['node_modules', 'target', '.git']
+2025-12-22 16:01:57,627 [INFO] Auto Commit Bot started (Watchdog mode)
+2025-12-22 16:01:57,627 [INFO] Create 'stop.txt' to stop the bot
+2025-12-22 16:01:57,628 [INFO] Watching: testing
+2025-12-22 16:01:57,628 [INFO] Watching: Wrangler
+2025-12-22 16:02:12,677 [INFO] Commit message: chore: automated commit
+2025-12-22 16:02:13,021 [INFO] Committed changes in testing
+2025-12-22 16:02:17,331 [INFO] Pushed to GitHub: testing
+2025-12-22 16:04:36,064 [WARNING] Stopped manually (Ctrl+C)
+2025-12-22 16:04:36,067 [INFO] Auto Commit Bot stopped
+2025-12-22 16:07:21,353 [INFO] Ignored directories: ['node_modules', 'target', '.git']
+2025-12-22 16:07:21,354 [INFO] Auto Commit Bot started (Watchdog mode)
+2025-12-22 16:07:21,354 [INFO] Create 'stop.txt' to stop the bot
+2025-12-22 16:07:21,355 [INFO] Watching: testing
+2025-12-22 16:07:21,356 [INFO] Watching: Wrangler
+2025-12-22 16:08:32,460 [INFO] Commit message: # Commit message using Conventional Commits format
+2025-12-22 16:08:33,838 [INFO] Committed changes in testing
+2025-12-22 16:08:35,635 [INFO] Commit message: -- Added yooohooo to print(finsished)
+2025-12-22 16:08:36,277 [INFO] Committed changes in testing
+2025-12-22 16:08:42,093 [INFO] Pushed to GitHub: testing
+2025-12-22 16:08:42,679 [ERROR] Push failed: To https://github.com/Uzumaki-tushar/testing.git
+ ! [remote rejected] main -> main (cannot lock ref 'refs/heads/main': is at 285e82d724e7043ae67cc7004de162de1cbe6e78 but expected c9df9f8bebfa2e8627f36064c5213ffceddc8e74)
+error: failed to push some refs to 'https://github.com/Uzumaki-tushar/testing.git'
+2025-12-22 16:08:49,166 [INFO] Commit message: (assuming the commit is made to a local repository)
+2025-12-22 16:08:49,618 [INFO] Committed changes in testing
+2025-12-22 16:08:52,246 [INFO] Commit message: Adding new function print(finsished) to main.py and renaming it.
+2025-12-22 16:08:52,690 [INFO] Committed changes in testing
+2025-12-22 16:08:53,688 [INFO] Pushed to GitHub: testing
+2025-12-22 16:08:56,613 [INFO] Pushed to GitHub: testing
+2025-12-22 16:09:12,112 [WARNING] Stopped manually (Ctrl+C)
+2025-12-22 16:09:12,140 [INFO] Auto Commit Bot stopped
+2025-12-22 16:09:12,147 [INFO] Commit message: chore: auto commit

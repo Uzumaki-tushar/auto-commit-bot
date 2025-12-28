@@ -1,0 +1,14 @@
+{
+    "interval_minutes": 1,
+    "projects": [
+      {
+        "name": "testing",
+        "path": "C:/Users/Tushar Sourav/coding/testing"
+      },
+      {
+        "name": "Wrangler",
+        "path": "C:/Users/Tushar Sourav/coding/Wrangler"
+      }
+    ]
+  }
+  
